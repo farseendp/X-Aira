@@ -17,7 +17,7 @@ Who kang this repo? I don't know.. so kepp Credits to [Saitama](https://t.me/Sai
 <details>
   <summary>Steps to deploy on Heroku !! </summary>
  
- [Deploy](https://www.heroku.com/deploy?template=https://github.com/MR-SHRLCK/X-AIRA.git)
+ [Deploy](https://www.heroku.com/deploy?template=https://github.com/farseendp/X-AIRA.git)
 
 ```
 Fill in all the details, Deploy!
